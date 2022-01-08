@@ -1,0 +1,8 @@
+    * Variables.- Las variables son como cajas. Esas cajas pueden almacener algun objeto y segun eso obtener un valor. Si lo rellenas
+    con un numero 5 valdra 5. Si lo rellenas con la palabra "jugar" valdra "jugar". Si abres la caja despues tendras lo que guardaste antes.
+
+	* Strings.- Son un tipo de variable donde puedes guardar letras. 
+	* Funciones (argumentos, `return`).- Las funciones son cajas mas grandes donde pones las variables(argumentos). Ahi dentro se transforman 
+    y retorna algo totalmente diferente (return).
+	* Declaraciones `if`.- If significa si. Es como una promesa. Si se cumple la promesa entonces algo mas pasara.
+	* Valores booleanos (`true`, `false`).- Es como algo que te dicen. Puede ser verdad o mentira pero no ambos.
